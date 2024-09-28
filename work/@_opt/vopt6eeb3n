@@ -1,0 +1,208 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\hw\comp-struct\mulpro\helloprojectadvance
+T_opt
+V[b0D4kIMY>GimF_TzkbV_3
+04 20 4 work multi_cycle_mips__tb fast 0
+=1-507b9df488e6-5b498425-260-26bc
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+T_opt1
+V2iWRXgH5Rg5Z7dLz;[<^h0
+04 27 4 work multi_cycle_mips__tb_bounus fast 0
+=1-507b9df488e6-5b48d44e-271-236c
+R1
+n@_opt1
+R2
+Z3 dD:\hw\comp-struct\mulpro\helloprojectadvance
+T_opt2
+VHo`:<@;B0D=NE48l^]RUY1
+04 29 4 work multi_cycle_mips__tb_advanced fast 0
+=1-507b9df488e6-5b48f5ac-2ae-22ac
+R1
+n@_opt2
+R2
+R3
+vasync_mem
+IeD;>oTH3lLH1@<ka[3bl:3
+V@5^U?Fz6PmgoViT[Df6]53
+Z4 dD:\hw\comp-struct\advance
+Z5 w1531499181
+Z6 8D:/hw/comp-struct/advance/testbench_bounus.v
+Z7 FD:/hw/comp-struct/advance/testbench_bounus.v
+L0 62
+Z8 OL;L;10.1c;51
+r1
+31
+Z9 !s108 1531544584.618000
+Z10 !s107 D:/hw/comp-struct/advance/testbench_bounus.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/testbench_bounus.v|
+Z12 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 9[E1Dg20=`@Cfa5On90ff1
+!i10b 1
+!s85 0
+vmulti2
+IT1;mA^Lh7jf2H?4OHRKIJ3
+VPd?6WZ78S0@K:ZmbKmJdj3
+R4
+Z13 w1531544574
+Z14 8D:/hw/comp-struct/advance/jal.v
+Z15 FD:/hw/comp-struct/advance/jal.v
+L0 745
+R8
+r1
+31
+Z16 !s108 1531544584.997000
+Z17 !s107 D:/hw/comp-struct/advance/jal.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/jal.v|
+R12
+!i10b 1
+!s100 m;WX_6g=aQkfZ=lTzA[Aa3
+!s85 0
+vmulti_cycle_mips
+I8`PAL=Jh[Y?SgWNW?cJnF3
+Vd;l3lz<E;1ji9M@BCm>@G3
+R4
+R13
+R14
+R15
+L0 16
+R8
+r1
+31
+R16
+R17
+R18
+R12
+!i10b 1
+!s100 fCBza13o:]TWhf6gfL^eX3
+!s85 0
+vmulti_cycle_mips__tb
+I6EB8oDQ_:ULHW>hMOLlH81
+V=zCPQh1cdT3E9HUc2DSJk3
+R4
+w1525077120
+8D:/hw/comp-struct/advance/multi_cycle_mips__tb.v
+FD:/hw/comp-struct/advance/multi_cycle_mips__tb.v
+L0 4
+R8
+r1
+31
+R12
+!s100 K;N7cAeSnF`AXU>3SK[_A2
+!s108 1531544583.518000
+!s107 D:/hw/comp-struct/advance/multi_cycle_mips__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/multi_cycle_mips__tb.v|
+!i10b 1
+!s85 0
+vmulti_cycle_mips__tb_advanced
+IlG[zHH6CoN?mj9`6CLEOB2
+VZ=1MoJk]=^^5lj<@_dcbP0
+R4
+w1531500598
+8D:/hw/comp-struct/advance/multi_cycle_mips__tb_advance.v
+FD:/hw/comp-struct/advance/multi_cycle_mips__tb_advance.v
+L0 4
+R8
+r1
+31
+R12
+!s100 Fl_o:;9kSHVb4eI:;IO9>0
+!s108 1531544584.047000
+!s107 D:/hw/comp-struct/advance/multi_cycle_mips__tb_advance.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/multi_cycle_mips__tb_advance.v|
+!i10b 1
+!s85 0
+vmulti_cycle_mips__tb_basic
+I9:F_R8MAzc;GbfQ8e4O1=0
+Vhlz8c>ZkdOAFSZHfH]cLa3
+R4
+w1531497417
+8D:/hw/comp-struct/advance/multi_cycle_mips__tb_basic.v
+FD:/hw/comp-struct/advance/multi_cycle_mips__tb_basic.v
+L0 4
+R8
+r1
+31
+R12
+!s100 lC5kI:7JSe76Bb=`m<;CE2
+!s108 1531544584.308000
+!s107 D:/hw/comp-struct/advance/multi_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/multi_cycle_mips__tb_basic.v|
+!i10b 1
+!s85 0
+vmulti_cycle_mips__tb_bounus
+Ih_JFWKzaZo;FSLFX^RX]20
+VZ>bCCkE_N1e2eM>AH@djU1
+R4
+R5
+R6
+R7
+L0 5
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 HaU`fFH=L@d8<^ZGNbiYN3
+!i10b 1
+!s85 0
+vmultiplier
+IOlnCfKaln@^l[Kg]?^C;71
+VZ]TOkE4_cGXZLGjn[7`2T1
+R4
+w1531501639
+8D:/hw/comp-struct/advance/Untitled-1.v
+FD:/hw/comp-struct/advance/Untitled-1.v
+L0 633
+R8
+r1
+31
+R12
+!s107 D:/hw/comp-struct/advance/Untitled-1.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/hw/comp-struct/advance/Untitled-1.v|
+!s108 1531501688.340000
+!s100 hWD1MYhSRbOSJ=Ga0hc^j0
+!i10b 1
+!s85 0
+vmy_alu
+IXe2B=P`jIGcT636N]nkI41
+Vj6:F1e9OOC^nLM`QE70lj1
+R4
+R13
+R14
+R15
+L0 662
+R8
+r1
+31
+R16
+R17
+R18
+R12
+!i10b 1
+!s100 VmSI25]LQ4D^njJLcY<kJ2
+!s85 0
+vreg_file
+IBV@5RR=>SAIWi1B^d5>^j1
+VhS7TEIC^ekO`FilNgEd2J3
+R4
+R13
+R14
+R15
+L0 718
+R8
+r1
+31
+R16
+R17
+R18
+R12
+!i10b 1
+!s100 `U=Ngg1h<PPULBR_4i<?^0
+!s85 0
